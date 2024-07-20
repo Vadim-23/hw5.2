@@ -1,0 +1,21 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+#conversion-container, #input-container {
+    margin: 20px;
+}
+
+.conversion-item {
+    margin: 5px 0;
+}
+
+#dollarInput {
+    padding: 5px;
+    margin-right: 10px;
+}
+
+#convertButton {
+    padding: 5px 10px;
+    cursor: pointer;
+}
